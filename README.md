@@ -8,7 +8,6 @@ this PoC will allow us to create blog posts, and is composed with:
 To run the PoC, install NodeJs, Mongodb and Git, and launch the following commands:
 
 ```
-git clone git@github.com:svengau/grpc-graphql-sample.git
 cd post-api && npm start
 cd graphql-api && npm start
 🚀 Server ready at http://localhost:4000/graphql
